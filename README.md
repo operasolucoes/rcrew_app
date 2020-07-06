@@ -1,6 +1,6 @@
 ![Alt text](https://github.com/operasolucoes/rcrew_app/blob/master/assets/logo.PNG?raw=true "R-Crew")
 
-A new Flutter project.
+R-Crew vai unificar e integrar as APIs existentes, centralizando de forma amigável;
 
 ## Getting Started
 
