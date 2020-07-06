@@ -2,9 +2,14 @@
 
 R-Crew vai unificar e integrar as APIs existentes, centralizando de forma amigável;
 
-## Getting Started
+## Screenshots 
 
 ![Alt text](https://github.com/operasolucoes/rcrew_app/blob/master/assets/img1.PNG?raw=true "R-Crew")
+![Alt text](https://github.com/operasolucoes/rcrew_app/blob/master/assets/img2.PNG?raw=true "R-Crew")
+![Alt text](https://github.com/operasolucoes/rcrew_app/blob/master/assets/img1.PNG?raw=true "R-Crew")
+![Alt text](https://github.com/operasolucoes/rcrew_app/blob/master/assets/img3.PNG?raw=true "R-Crew")
+![Alt text](https://github.com/operasolucoes/rcrew_app/blob/master/assets/img4.PNG?raw=true "R-Crew")
+![Alt text](https://github.com/operasolucoes/rcrew_app/blob/master/assets/img5.PNG?raw=true "R-Crew")
 
 This project is a starting point for a Flutter application.
 
