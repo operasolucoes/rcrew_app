@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+
+![Alt text](/assest/logo.png?raw=true "R-Crew")
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
