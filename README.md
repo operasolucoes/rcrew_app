@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 
-![Alt text](/assest/logo.png?raw=true "R-Crew")
+![Alt text](https://github.com/operasolucoes/rcrew_app/blob/master/assets/logo.PNG?raw=true "R-Crew")
 
 This project is a starting point for a Flutter application.
 
