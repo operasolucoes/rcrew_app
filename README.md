@@ -1,4 +1,4 @@
-# inteliger_app
+# R-Crew
 
 A new Flutter project.
 
