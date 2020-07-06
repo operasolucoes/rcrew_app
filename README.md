@@ -1,11 +1,10 @@
-# R-Crew
+![Alt text](https://github.com/operasolucoes/rcrew_app/blob/master/assets/logo.PNG?raw=true "R-Crew")
 
 A new Flutter project.
 
 ## Getting Started
 
-
-![Alt text](https://github.com/operasolucoes/rcrew_app/blob/master/assets/logo.PNG?raw=true "R-Crew")
+![Alt text](https://github.com/operasolucoes/rcrew_app/blob/master/assets/img1.PNG?raw=true "R-Crew")
 
 This project is a starting point for a Flutter application.
 
